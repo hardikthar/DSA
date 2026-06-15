@@ -1,0 +1,26 @@
+❯ python3 main.py
+Final results: {'p1': 996, 'p2': 3, 'tie': 1}
+Player 1 win rate: 99.69969969969969%
+Final results: {'p1': 359, 'p2': 486, 'tie': 155}
+Player 1 win rate: 42.485207100591715%
+Final results: {'p1': 558, 'p2': 327, 'tie': 115}
+Player 1 win rate: 63.05084745762712%
+Final results: {'p1': 491, 'p2': 346, 'tie': 163}
+Player 1 win rate: 58.661887694145754%
+
+Testing game against abbey...
+Final results: {'p1': 477, 'p2': 293, 'tie': 230}
+Player 1 win rate: 61.948051948051955%
+abbey.. True
+.Testing game against kris...
+Final results: {'p1': 476, 'p2': 306, 'tie': 218}
+Player 1 win rate: 60.86956521739131%
+.Testing game against mrugesh...
+Final results: {'p1': 638, 'p2': 180, 'tie': 182}
+Player 1 win rate: 77.99511002444987%
+.Testing game against quincy...
+Final results: {'p1': 654, 'p2': 0, 'tie': 346}
+Player 1 win rate: 100.0%
+.
+----------------------------------------------------------------------
+Ran 4 tests in 0.004s
